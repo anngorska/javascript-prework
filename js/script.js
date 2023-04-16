@@ -29,7 +29,7 @@ if (playerInput == '1') {
   playerMove = 'kamień';
 } else if (playerInput == '2') {
   playerMove = 'papier';
-} else if (playerInput == '1') {
+} else if (playerInput == '3') {
   playerMove = 'nożyce';
 } else {
   playerMove = 'kamień';
